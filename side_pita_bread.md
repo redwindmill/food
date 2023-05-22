@@ -9,8 +9,7 @@ Sponge:
 Dough:
 - Sponge mixture
 - 1 tsp salt
-- 2 tbsp olive oil
-- (optional) 1tbsp dry milk
+- 2 tbsp olive oil (optionally add one tbsp olive oil)
 - 1 3/4 cups flour
 
 **PREP SPONGE**
