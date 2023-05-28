@@ -11,6 +11,7 @@ Dough:
 - 1 tsp salt
 - 2 tbsp olive oil (optionally add one tbsp olive oil)
 - 1 3/4 cups flour
+- 1.5 tsp dry milk (optional)
 
 **PREP SPONGE**
 - Pour water, yeast and sugar into a large mixing bowl. Stir until dissolved.
