@@ -10,4 +10,4 @@ WIP:: COOKIES
 - 1.5 cup chocolate chips
 
 Mix everything but chips together. Kneed until butter is mixed well. Add chips
-Cook at 350F for 12 minutes
+Cook at 350F for 11 minutes

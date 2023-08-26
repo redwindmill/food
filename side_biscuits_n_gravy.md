@@ -6,7 +6,8 @@ WIP:: BISCUITS AND GRAVY
 - 1 tsp salt
 - 3 tbps baking powder
 - 1 tsp cream of tartar (powder)
-- 1/2 cup cold butter (add pinch of salt if unsalted
+- 1/2 cup cold butter; +2 tbps for moist, pinch of salt if unsalted
+- 1 egg
 - 1 cup milk 1 tbsp lemon juice
 
 *BAKE*
@@ -24,7 +25,7 @@ WIP:: BISCUITS AND GRAVY
 
 *COOK*
 - Set oven to 400F; butter or oil pan / skillet
-- Cook for 14-15min (light golden brown on top and bottom)
+- Cook for 13min (light golden brown on top and bottom)
 
 **GRAVY**
 - (optional) 1lb breakfast sausage
