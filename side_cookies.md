@@ -1,13 +1,15 @@
 WIP:: COOKIES
 ================================================================================
-- 2.5 cups flour
-- 2 cup packed brown sugar
-- 2 tsp baking powder
-- 0.5 tsp salt
-- 0.5 cups chilled butter
-- 2 tsp vanilla extract
-- 2 large eggs (or 3 regular size ones)
-- 1.5 cup chocolate chips
+- 3 cups flour
+- 1 cup packed brown sugar
+- 0.5 cups sugar
+- 1 tbsp baking powder
+- 1 tsp cream of tartar
+- 1 tsp salt
+- 1 cup soft butter
+- 2 eggs
+- 2 tsp vanilla
+- 1.5 to 2 cups semi sweet chocolate chips
 
-Mix everything but chips together. Kneed until butter is mixed well. Add chips
-Cook at 350F for 11 minutes
+Mix all dry ingredients until blended. mix in wet ingredients until semi blended, mix in chips slowly
+cook at 350F for 10 min, roll into a ball about the size of a tbsp
