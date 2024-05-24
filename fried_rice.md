@@ -1,20 +1,20 @@
 WIP:: FRIED RICE
 ================================================================================
-- 1 cup (us) uncooked jasmine rice
-- ?? green onions
-- ?? mixed vegetables (frozen or fresh carrots, peas, green beans, corn)
-- 3 large eggs
-- ?? tbsp extra virgin olive oil
-- ?? salt
-- ?? sugar
-- ?? chicken bouillon
-- ?? soy sauce
+- 2 cups (us) uncooked jasmine rice
+- 0.25 cups chopped green onions
+- 1 cup mixed vegetables (frozen or fresh carrots, peas, green beans, corn)
+- 6 large eggs
+- 6 tbsp extra virgin olive oil
+- 1 tsp salt
+- 1 tsp sugar
+- 2 tsp chicken bouillon
+- 2 tbsp soy sauce
 
 Prep:
 - Cook rice in rice cooker, let sit for steam period
 - Cook mixed vegetables in pot / steam / microwave (add water, 1-2min)
 - Chop up green parts of green onion, set to side
-- add 3 eggs to bowel, add 0.5 tsp salt, mix
+- add eggs to bowel, add tsp salt, mix
 
 Fry Rice:
 - Fluff rice with a stick for 1 min
@@ -25,7 +25,7 @@ Fry Rice:
 
 Season:
 - Lower temp to low-medium
-- Add 1 tbsp soy sauce, 0.5 tsp sugar, 1 teaspoon chicken bouillon
+- Add soy sauce, sugar, chicken bouillon
 - Set temp to high; flip / scoop rice with spatula for 2min
 - taste rice, add more bouillon / soy sauce to taste
 - add green onions with 1 tsp oil fry for 30 seconds
