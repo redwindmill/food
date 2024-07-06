@@ -1,14 +1,14 @@
 WIP:: FRIED RICE
 ================================================================================
 - 2 cups (us) uncooked jasmine rice
-- 0.25 cups chopped green onions
-- 1 cup mixed vegetables (frozen or fresh carrots, peas, green beans, corn)
-- 6 large eggs
-- 6 tbsp extra virgin olive oil
+- 0.25 cups chopped green onions or 1/2 tsp onion powder
+- 1.5 cups mixed vegetables (frozen or fresh carrots, peas, green beans, corn)
+- 6-8 large eggs
+- 6-7 tbsp extra virgin olive oil
 - 1 tsp salt
 - 1 tsp sugar
-- 2 tsp chicken bouillon
-- 2 tbsp soy sauce
+- 2-3 tsp chicken bouillon
+- 2-3 tbsp soy sauce
 
 Prep:
 - Cook rice in rice cooker, let sit for steam period
