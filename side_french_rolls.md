@@ -30,7 +30,7 @@ Loaf Rise:
 
 Roll Rise:
 - Flatten into disks, make into balls by folding edges (3-4 rotations)
-- Cover with damp towel for 45min to rise in pan
+- Cover with damp towel for 60min to rise in pan
 
 Finishing Touch:
 - Sprinkle with dry flour if desired
