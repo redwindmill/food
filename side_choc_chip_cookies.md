@@ -1,4 +1,4 @@
-WIP:: COOKIES
+WIP:: CLASSIC CHOCOLATE CHIP COOKIES
 ================================================================================
 - 3 cups flour
 - 1 cup packed brown sugar
