@@ -19,7 +19,7 @@ Prep:
 - Mix wet mix thoroughly
 - Mix dry mix thoroughly
 - Blend together and knead until ingredients are well distributed
-- Add 1.625 tbsp salted butter at room temp; mix well into dough
+- Add 2 tbsp salted butter at room temp; mix well into dough
 
 Loaf Rise:
 - Cover for 45min to rise
