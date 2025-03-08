@@ -1,7 +1,7 @@
 WIP:: FRIED RICE
 ================================================================================
 - 2 cups (us) uncooked jasmine rice
-- 0.25 cups chopped green onions or 1/2 tsp onion powder
+- 0.25 cups chopped green onions or 1 tsp onion powder
 - 1.5 cups mixed vegetables (frozen or fresh carrots, peas, green beans, corn)
 - 6-8 large eggs
 - 6-7 tbsp extra virgin olive oil
