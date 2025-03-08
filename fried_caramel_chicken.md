@@ -17,7 +17,9 @@ Prep:
 - from a cold pan, heat 2 caramel units on med-high heat until caramel is a good brown
 
 Fry:
+- finishing: 2 tbsp sake
 - on max heat
 - Dump in all of the marinade with the chicken
 - mix well, caramel may turn into candy, it will melt back
+- mid way through add 2 tbsp sake and mix
 - cook chicken until done
