@@ -13,13 +13,14 @@ Wet Mix:
 Dry Mix:
 - 2.5 cups all purpose flour
 - 1 tbsp sugar
-- 0.625 tsp salt
+- 0.75 tsp salt
+- 2 tbsp butter (cubed)
 
 Prep:
 - Mix wet mix thoroughly
 - Mix dry mix thoroughly
 - Blend together and knead until ingredients are well distributed
-- Add 2 tbsp salted butter at room temp; mix well into dough
+- Make sure butter is mixed well into dough
 
 Loaf Rise:
 - Cover for 45min to rise
@@ -38,6 +39,6 @@ Finishing Touch:
 - Push 1/8 tbsp chilled butter in each cut
 
 Bake:
-- Preheat oven to 450F
+- Preheat oven to 425F
 - Cook for 12min
 - Place on cutting board to cool completely (covered)
