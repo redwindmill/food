@@ -8,7 +8,7 @@ Wet Mix:
 - 0.25 cups bread flour
 - 1 tsp sugar
 - 1.5 tsp dry yeast
-- 3/5 + cups warm water
+- 3/4 + cups warm water
 - 1 tsp lemon juice
 
 Other:
