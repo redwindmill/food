@@ -1,7 +1,7 @@
 WIP:: PIZZA DOUGH
 ================================================================================
 Dry Mix:
-- 1.75 cups bread flour
+- 1.75 cups unbleached bread flour
 - 1 tsp salt
 
 Wet Mix:
