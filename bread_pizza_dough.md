@@ -1,18 +1,18 @@
 WIP:: PIZZA DOUGH
 ================================================================================
 Dry Mix:
-- 1.75 cups unbleached bread flour
-- 1 tsp salt
+- 5 1/4 cups unbleached bread flour
+- 3 tsp salt
 
 Wet Mix:
-- 0.25 cups bread flour
-- 1 tsp sugar
-- 1.5 tsp dry yeast
-- 3/4 + cups warm water
-- 1 tsp lemon juice
+- 3/4 cups bread flour
+- 3 tsp sugar
+- 4 1/2 tsp dry yeast
+- 2 1/4 + cups warm water
+- 3 tsp lemon juice
 
 Other:
-- 1 tbsp extra virgin olive oil
+- 3 tbsp extra virgin olive oil
 
 Prep:
 - Mix wet and let sit for 10 to 15min
