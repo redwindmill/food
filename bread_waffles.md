@@ -1,22 +1,17 @@
-WIP:: WAFFLES
+WAFFLES
 --------------------------------------------------------------------------------
-**DRY MIX**
-- 4 cups bread flour
-- 3 tbsp sugar
-- 3 tbsp baking powder
-- 2 tsp baking soda
-- 1 tsp salt
+**DRY**
+- 2 cups bread flour
+- 0.75 tsp salt
+- 2 tsp active dry yeast
+-
+**WET**
+- 1.5 cups lukewarm milk
+- 7 tbsp melted butter
+- 2 tsp vanilla extract
+- 2 large eggs
+- 2-4 tbsp maple syrup
 
-**BATTER WAFFLES**
-- 2 cups dry mix
-- 4 tbsp melted butter (double???)
-- 1 egg
-- 1 cup milk
-- 1-2 tsp vanilla
-
-**BATTER PANCAKES**
-- 2 cups dry mix
-- 2 tbsp melted butter
-- 1/2 egg
-- 1 cup milk
-- 1-2 tsp vanilla
+**STEPS**
+- Mix all together
+- Let sit for 1.5 hours

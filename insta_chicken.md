@@ -1,28 +1,15 @@
 INSTA POT CHICKEN
 ================================================================================
-
-RUB
-- 2 tsp dry thyme
-- 1 tsp dry parsley
-- 1 tsp dry oregano
-- 1.5 tsp lawry salt
+- 1 whole chicken
+- 1 tbsp olive oil
+- 1 tsp lawrys salt
+- 2 tsp garlic powder
+- 1 tsp paprika
 - 1 tsp black pepper
-- 1 tsp garlic powder
-- 5 tbsp olive oil
-- 1 large lemon (juice and zest)
-
-Mix all together and rub on the outside of the bird
-
-BIRD (or POT)
-- 1 apple sliced
-- 1/2 large onion sliced
-
-POT
-- 1 lemon, sliced
-- 1 cup water
+- 1 tsp parsley flakes
 - 2 tsp chicken bullion
+- 2 cups water
+- 2 apples
 
-SETTINGS
-- 8min per pound raw
-- 13min per pound frozen
-- Manual, High
+Poultry setting
+Rest in cooker for 50-60min with seal on
