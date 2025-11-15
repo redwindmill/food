@@ -24,7 +24,7 @@
 
 **FINISH**
 - 2 cups heavy cream
-- 4 cups kale / lettuce
+- 4 cups kale or spinach
 - 1 cup bacon (cut into bits)
 
 1. Add sausage, kale, heavy cream and bacon
