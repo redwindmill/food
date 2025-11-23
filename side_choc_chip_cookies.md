@@ -10,6 +10,7 @@ WIP:: CLASSIC CHOCOLATE CHIP COOKIES
 - 2 eggs
 - 2 tsp vanilla
 - 1.5 to 2 cups semi sweet chocolate chips
+- (optional) 1/3 cups whole milk
 
 Mix all dry ingredients until blended. mix in wet ingredients until semi blended, mix in chips slowly
 cook at 350F for 10.5 min, roll into a ball about the size of a tbsp

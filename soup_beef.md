@@ -8,8 +8,9 @@
 - 2 bay leaves
 - 1 tbsp salt
 - 1 tsp sugar
-- 1/4 tsp all spice
 - 1/2 tsp paprika
+- 1/2 tsp black pepper
+- 1/4 tsp all spice
 - 3 cups chopped carrots (about 14oz)
 - 4 cups chopped yellow potatoes (about 20oz)
 - 2 cups water or beef stock
