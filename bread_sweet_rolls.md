@@ -1,20 +1,18 @@
-WIP:: FRENCH ROLLS
+WIP:: SWEET ROLLS
 ================================================================================
-Addons:
-- Around 4 tbsp salted butter
-
 Wet Mix:
-- 1/2 cup water
-- 1/2 cup whole milk
-- 1 large egg
+- 1/3 cup water
+- 1/3 cup whole milk
+- 5 tbsp butter (room temp / slightly melted)
+- 2 large egg
 - 1 tsp lemon juice
+- 1 tsp vanilla
 - 2 tsp dry yeast
 
 Dry Mix:
-- 2.5 cups bread flour
-- 1 tbsp sugar
-- 0.75 tsp salt
-- 2 tbsp butter (cubed)
+- 2.5 cups all purpose flour
+- 1/4 cup sugar
+- 0.5 tsp salt
 
 Prep:
 - Mix wet mix thoroughly
@@ -31,12 +29,7 @@ Loaf Rise:
 
 Roll Rise:
 - Flatten into disks, make into balls by folding edges (3-4 rotations)
-- Cover with damp towel at least 60min to rise in pan
-
-Finishing Touch:
-- Sprinkle with dry flour if desired
-- Make 1 cut in top of each roll
-- Push 1/8 tbsp chilled butter in each cut
+- Cover with damp towel for at least 60min to rise in pan
 
 Bake:
 - Preheat oven to 425F
