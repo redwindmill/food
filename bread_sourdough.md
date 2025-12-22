@@ -13,8 +13,8 @@ BY WEIGHT
 BY VOLUME
 ---------
 4 1/3 cup bread flour
-1.5 cups water (maybe a bit more)
-105g sourdough
+1.75 cups water (maybe a bit more)
+120g sourdough
 2 tsp salt
 
 **YEAST**
