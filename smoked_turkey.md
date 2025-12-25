@@ -3,20 +3,29 @@ SMOKED TURKEY
 BRINE
 ================================================================================
 - 4 cups water
-- 4 cups apple juice
+- 8 cups apple juice
 - 1 cup salt
-- 1/2 cup brown sugar
-- 1 tbsp pepper corns
+- 1/3 cup brown sugar
+- 1 tbsp pepper corns, lightly crushed
 - 1 tbsp brown cinnamon
 - 1 tsp thyme
 - 1 tsp rosemary
-- 2 bay leaves
+- 1 tsp paprika
+- 2-3 bay leaves
+
 
 Bring up to a boil; then remove from heat
-- Put in 6 cups of ice cubes
-- 4 more cups of apple juice
-- Add quartered apple / onion / lemon
-Brine for 1 hour per lb of turkey
+- 1 yellow onion quartered
+- 2 lemons quartered
+- 1 honey crisp apple quartered`
+
+Cooling:
+- Put in 3 cups of ice cubes
+- 8 more cups of apple juice
+
+Brine
+- 1 hour per lb of turkey minimum
+- 24 to 36 hours if frozen
 
 PREP
 ================================================================================
