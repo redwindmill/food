@@ -1,4 +1,4 @@
-## BEEF SOUP (CROCK POT)
+## BEEF STEW (CROCK POT)
 --------------------------------------------------------------------------------
 **STEW**
 - 2 lbs stew beef (chucked)
