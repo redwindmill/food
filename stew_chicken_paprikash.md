@@ -3,19 +3,21 @@ CHICKEN PAPRIKASH
 
 MEAT:
 - 4-5 lbs chicken (thighs)
-- 1tbsp salt
+- 1tbsp salt (to taste)
 
 VEGGIES:
 - 3 tbsp olive oil
 - 4 cups finely chopped yellow onion (about 1-2 bulbs)
 - 1 tsp salt
 - 2 tbsp smoked paprika
+- 1 tsp garlic powder
 
 STEW:
-- 2 cups chicen stock
+- 2 cups chicken stock
 
 FINISH:
 - 1.5 cups sour cream
+- 2 to 3 tsp flour
 
 PREP (MEAT)
 - Dry pat chicken; apply salt to both sides
