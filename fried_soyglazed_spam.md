@@ -2,15 +2,15 @@ FRIED SOY GLAZED SPAM
 --------------------------------------------------------------------------------
 
 **GLAZE**
-2 tbsp soy sauce
-2 tbsp packed dark brown sugar
-1/2 to 1 tsp sake
+- 2 tbsp soy sauce
+- 2 tbsp packed dark brown sugar (or 2tbsp cane sugar and 1tsp molassses)
+- 1/2 to 1 tsp sake
 
 Mix together well in bowl and set to the side
 
 **FRY**
-1-3 tsp olive oil or coconut oil
-1 12oz can of SPAM
+- 1-3 tsp olive oil or coconut oil
+- 1 12oz can of SPAM
 
 Heat pan at med to high heat with oil and cut spam into even slices (8-10).
 Fry until brown and crispy on both sides (3 min).
