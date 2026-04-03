@@ -2,7 +2,7 @@ WIP:: TEXAS CHILI (GOULASH LIKE?)
 -----------
 
 **CHILI POWDER (1 TBSP)**
-- 2 tsp smoked paprika
+- 2 tsp sweet hungarian or spanish paprika
 - 1 tsp cumin
 - 1/4 tsp cayenne pepper
 
@@ -17,6 +17,7 @@ WIP:: TEXAS CHILI (GOULASH LIKE?)
 - 4 to 5 tbsp butter
 - 1/4 tsp lawrys salt or table salt
 - 1 to 1 1/2 cup diced yellow onion
+- 1 cup diced mild pepper (green bell pepper)
 - 2 tbsp fresh garlic minced or pressed
 
 **WET**
@@ -35,5 +36,5 @@ STEW (WET + DRY)
 - In same pan, add broth, ketchup and a bay leaf
 - While stirring in add in Dry mix, bring to a boil
 - Reduce heat to a simmer
-- Cook for at least an and a half or until meat is tender
+- Cook for at least an hour and a half or until meat is tender
 - Add water if needed to prevent chili from burning

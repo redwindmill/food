@@ -1,4 +1,4 @@
-WIP:: SOUR DOUGH OVEN SPRING
+WIP:: SOURDOUGH PULLMAN SMALL
 ================================================================================
 
 **SOURDOUGH**
@@ -12,19 +12,10 @@ BY WEIGHT
 
 BY VOLUME
 ---------
-- 4 1/3 cup bread flour
-- 1.75 cups water (maybe a bit more)
-- 120g sourdough
-- 2 tsp salt
-
-**YEAST**
-
-BY VOLUME
----------
-- 4 1/3 cup bread flour
-- 1.75 cups water (maybe a bit more)
-- 1 tsp yeast
-- 3 tsp salt
+- 3 cups bread flour
+- 1.25 cups water (maybe a bit more)
+- 90g sourdough
+- 1.5 tsp salt
 
 MIX
 - Mix all ingredients; let sit for a hour

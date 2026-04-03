@@ -1,0 +1,11 @@
+PICO DE GALLO
+--------------------------------------
+- 1 to 1 1/2 cups diced fresh tomatoes (or 14.0oz diced tomatoes, drained)
+- 1/2 cup diced green bell pepper
+- 1/2 cup diced spicy pepper (jalapenos / hatch)
+- 1/4 to 1/2 cup diced onion
+- 1/4 cup chopped cilantro, fresh
+- 1 can (5.5oz) tomato juice
+- juice of 1 to 2 limes
+- 1 tsp salt
+- 1/4 tsp garlic powder∂
