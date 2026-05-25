@@ -1,4 +1,4 @@
-WIP:: CLASSIC CHEESESTEAK
+# CLASSIC CHEESESTEAK
 --------------------------------------------------------------------------------
 **Veggies**
 - 1 bell pepper
@@ -35,7 +35,7 @@ Cook Meat
 
 Combine
 - Add veggies to the pan
-- Season to taste (salt + pepper + worcestershire)
+- Season to taste (salt + pepper + Worcestershire)
 - Add cheese, mix until melted
 
 Bread

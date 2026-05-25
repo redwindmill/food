@@ -1,5 +1,4 @@
-WIP:: SOUR DOUGH OVEN SPRING
-================================================================================
+# SOUR DOUGH OVEN SPRING
 
 **SOURDOUGH**
 
@@ -44,7 +43,7 @@ RISE
 - place in fridge for 24 hours
 
 COOK
-- preheat oven and pan /w top to 425 F
+- preheat oven and pan /w top to 425 °F
 - put some flour in pan bottom, place dough in pan
 - score top, put in oven for 18min
 - pull out, remove pan top

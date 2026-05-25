@@ -1,5 +1,4 @@
-WIP:: Navajo Fry Bread
-================================================================================
+# Navajo Fry Bread
 - 2 cups flour
 - (optional) 1 tbsp dry milk
 - 3 tbsp baking powder

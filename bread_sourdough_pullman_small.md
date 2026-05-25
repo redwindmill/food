@@ -1,5 +1,4 @@
-WIP:: SOURDOUGH PULLMAN SMALL
-================================================================================
+# SOURDOUGH PULLMAN SMALL
 
 **SOURDOUGH**
 
@@ -15,7 +14,7 @@ BY VOLUME
 - 3 cups bread flour
 - 1.25 cups water (maybe a bit more)
 - 90g sourdough
-- 1.5 tsp salt
+- 1 1/2 tsp salt
 
 MIX
 - Mix all ingredients; let sit for a hour
@@ -35,7 +34,7 @@ RISE
 - place in fridge for 24 hours
 
 COOK
-- preheat oven and pan /w top to 425 F
+- preheat oven and pan /w top to 425 °F
 - put some flour in pan bottom, place dough in pan
 - score top, put in oven for 18min
 - pull out, remove pan top

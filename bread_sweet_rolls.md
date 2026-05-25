@@ -1,5 +1,4 @@
-WIP:: SWEET ROLLS
-================================================================================
+# SWEET ROLLS
 Wet Mix:
 - 1/3 cup water
 - 1/3 cup whole milk
@@ -10,9 +9,9 @@ Wet Mix:
 - 2 tsp dry yeast
 
 Dry Mix:
-- 2.5 cups all purpose flour
+- 2 1/2 cups all purpose flour
 - 1/4 cup sugar
-- 0.5 tsp salt
+- 1/2 tsp salt
 
 Prep:
 - Mix wet mix thoroughly
@@ -32,6 +31,6 @@ Roll Rise:
 - Cover with damp towel for at least 60min to rise in pan
 
 Bake:
-- Preheat oven to 425F
+- Preheat oven to 425°F
 - Cook for 12min
 - Place on cutting board to cool completely (covered)

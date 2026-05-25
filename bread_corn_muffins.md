@@ -1,12 +1,12 @@
-WIP:: CORN MUFFINS
+# CORN MUFFINS
 --------------------------------------------------------------------------------
 **MUFFINS**
 - 1 cup all purpose flour
 - 1 cup corn meal
-- 0.25 cups brown sugar sugar (packed)
+- 1/4 cup brown sugar sugar (packed)
 - 1 tbsp baking powder
 - 1 tsp cream of tartar
-- 0.5 tsp salt
+- 1/2 tsp salt
 - 1 cup buttermilk (or 1 cup milk + 1 tbsp lemon juice)
 - 6(8) tbsp melted butter cooled
 - 2 large eggs

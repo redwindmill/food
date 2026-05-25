@@ -1,10 +1,9 @@
-WIP:: STEAK MARINADE
-===============================================================================
+# STEAK MARINADE
 
-0.25 cups olive oil
-0.25 cups balsamic vinegar
-0.25 cups worcestershire sauce
-0.25 cups soy sauce
+1/4 cup olive oil
+1/4 cup balsamic vinegar
+1/4 cup Worcestershire sauce
+1/4 cup soy sauce
 2 tsp mustard
 2 tsp garlic powder
 1 tsp pepper

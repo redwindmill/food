@@ -1,8 +1,7 @@
-WIP:: PEACH COBBLER
+# PEACH COBBLER
 - If using dutch oven; try 1/2 batter
 
 COBBLER
-================================================================================
 - 2 16oz cans of peaches; heavy syrup
 - 1/2 cup butter (1 stick)
 - 1 cup milk 1 tbsp lemon
@@ -15,8 +14,7 @@ COBBLER
 - 1 tsp cinnamon
 
 STEPS
-================================================================================
-- Preheat oven to 350F
+- Preheat oven to 350°F
 - Drain the peaches; keep the syrup from one can
 - Heat pan and butter until melted (don't overheat)
 

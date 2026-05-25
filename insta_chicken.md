@@ -1,5 +1,4 @@
 INSTA POT CHICKEN
-================================================================================
 - 1 whole chicken
 - 1 tbsp olive oil
 - 1 tsp lawrys salt

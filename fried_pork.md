@@ -1,5 +1,4 @@
 PORK CHOPS
-================================================================================
 - pork chops
 - butter, olive oil
 - thyme, garlic
@@ -21,7 +20,6 @@ Cook:
 - Let cool for 8-9 min
 
 SWEET AND SOUR PEPPERS
-================================================================================
 - 2 red peppers
 - 1/2 red onion
 - fresh basil

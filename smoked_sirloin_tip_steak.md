@@ -1,9 +1,9 @@
-## WIP: SMOKED SIRLON TIP STEAK
---------------------------------------------------------------------------------
-**Meat**
-- 1lb sirloin tip steak (thin)
+# SMOKED SIRLOIN TIP STEAK
 
-**Marinade**
+## MEAT
+- 1 lb sirloin tip steak (thin)
+
+## MARINADE
 - 3 tbsp soy sauce
 - 1 tbsp brown sugar
 - 4 tbsp extra virgin olive oil
@@ -12,21 +12,19 @@
 - 1 tsp black pepper
 - salt
 
---------------------------------------------------------------------------------
+## PREP
+1. Salt steak; let sit 15 min.
+2. Place in marinade 6 hours, rotating twice.
 
-**Prep**
-- take out steak, salt and let sit for 15 min
-- place into marinade for 6 hours, rotate twice
+## SMOKING
+1. Smoke at 180-200°F for 3 hours untouched.
+2. Raise to 275-300°F (fast) or 225-250°F (slow) until internal 165-170°F.
+3. Apply apple cider vinegar every 30 min until smoke phase complete.
 
-**Smoking**
-- Put out on smoker at smoking temp (180-200F)  for 3 hours untouched
-- Raise temp to 275-300F (fast) 225-250 (slow) util internal temp is 165-170F
-- Apply apple cider vinegar every 30min until smoke phase complete
+## COOKING
+1. Before wrapping, pour honey and butter on top.
+2. At ~170°F internal, wrap in butcher paper (fat sealed).
+3. Return to smoker at 300-325°F until internal 195-200°F (probe smooth).
 
-**Cooking**
-- Before wrapping pour some honey and butter on the top of the butt
-- After an internal temp around 170f, wrap in butcher paper (fold in a way that fat does not leak out of edges)
-- Put back into smoker (300-325F), wait for internal temp around 195-200f. Should feel smooth with poking with probe
-
-**Resting**
-- Rest for 1 hour in a cooler
+## RESTING
+1. Rest 1 hour in cooler.

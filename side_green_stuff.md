@@ -1,14 +1,12 @@
-WIP:: GREEN STUFF
-================================================================================
+# GREEN STUF°F
 - 6oz green jello mix (large box)
 - 1 cup mini marshmallows
-- 2.5 cups water
+- 2 1/2 cups water
 - 2 cups mini marshmallows
 - 8oz cream cheese
 - 20z can of diced pineapples (in pineapple juice)
 
 STEPS
-================================================================================
 - Mix jello mix into 2 cups boiling water
 - Add in 1 cup mini marshmallows; stir until frothy
 - Whisk in cream cheese

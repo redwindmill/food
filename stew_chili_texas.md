@@ -1,4 +1,4 @@
-WIP:: TEXAS CHILI (GOULASH LIKE?)
+# TEXAS CHILI (GOULASH LIKE?)
 -----------
 
 **CHILI POWDER (1 TBSP)**
@@ -13,7 +13,7 @@ WIP:: TEXAS CHILI (GOULASH LIKE?)
 - 1 tsp garlic powder
 
 **FRY**
-- 2lbs beef chuck cubed to 1/2in
+- 2 lb beef chuck cubed to 1/2 in
 - 4 to 5 tbsp butter
 - 1/4 tsp lawrys salt or table salt
 - 1 to 1 1/2 cup diced yellow onion

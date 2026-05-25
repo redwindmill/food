@@ -1,18 +1,17 @@
 PORKOLT STEW
-================================================================================
 
 INGREDIENTS:
 - 5-6 slices of thick cut bacon, cut into short strips
 - 2 cups diced yellow onion (about 1 large)
-- 1.5 cups diced green bell pepper (about 1 large)
+- 1 1/2 cups diced green bell pepper (about 1 large)
 - 2 cups large diced tomato (about 1 large tomato)
 - 1 tbsp pressed garlic (about 3-4 cloves)
 - (optional) 2-3 tsp olive oil
-- 2lbs chuck beef cubed into 1/2
+- 2 lb chuck beef cubed into 1/2 in
 - 4 tbsp paprika
-- 0.5 tsp caraway seed or fennel seed
-- 1.5 tsp salt
-- 0.5 tsp black pepper
+- 1/2 tsp caraway seed or fennel seed
+- 1 1/2 tsp salt
+- 1/2 tsp black pepper
 - 1-2 bay leafs
 
 FRY:

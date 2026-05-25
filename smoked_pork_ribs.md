@@ -1,43 +1,38 @@
-# WIP: SMOKED ST LOUIS RIBS
---------------------------------------------------------------------------------
-GOLDEN RULE: 1/3 salts, 1/3 sugars and 1/3 fragrant spices
+# SMOKED ST. LOUIS RIBS
 
-**Meat**
-St Louis style ribs; trim hanging fat and meat
+GOLDEN RULE: 1/3 salts, 1/3 sugars, 1/3 fragrant spices.
 
-**Rub**
-- 8 TBSP Pepper
-- 4 TBSP Salt
-- 4 TBSP Lawery's Salt
-- 1 TBSP Garlic powder
+## MEAT
+- St. Louis style ribs; trim hanging fat and meat
 
-**Other**
-- Apple Cider Vinegar / 50%
-- Pork Lard
+## RUB
+- 8 tbsp pepper
+- 4 tbsp salt
+- 4 tbsp Lawry's salt
+- 1 tbsp garlic powder
 
-**WIP**
-- Add some ginger puree to spray to help tenderize the meat
-- Swap to foil to try and help steam the ribs (to tenderize)
+## OTHER
+- apple cider vinegar (50%)
+- pork lard
 
---------------------------------------------------------------------------------
-**Prep**
-- Trim hanging fat and meat
-- Score membrane instead of removing
-- 2 heaping TBSPs of pork lard per rib in a metal pan
-- Apply the rub
-- Let sit for an hour or two. I apply the night before
+## PREP
+1. Trim hanging fat and meat.
+2. Score membrane instead of removing.
+3. Place 2 heaping tbsp pork lard per rib in metal pan.
+4. Apply rub.
+5. Let sit 1-2 hours (or overnight).
 
-**Smoking**
-- Smoke at 225F for 4 hours; membrane down
-- Smoke at 275F for 1 hour
-- Add metal pan full of lard to the smoker for the whole time
-- At 3 hour mark start spraying ribs with vinegar mix every 15min
+## SMOKING
+1. Smoke at 225°F for 4 hours, membrane down.
+2. Smoke at 275°F for 1 hour.
+3. Add metal pan of lard to smoker entire time.
+4. At 3-hour mark, spray ribs with vinegar mix every 15 min.
 
-**Cooking**
-- Apply smoked lard and wrap (butcher paper); meat side down
-- Make sure to spray vinegar for the 'steam'
-- 30min-45min (meat pin should feel like butter). May take 45-60min
+## COOKING
+1. Apply smoked lard; wrap in butcher paper (meat side down).
+2. Spray vinegar for steam.
+3. Cook 30-60 min until probe feels like butter.
 
-**Glaze (optional)
-- Mix vinegar with BBQ sauce to make it easier to apply
-- Smoker until it gets sticky
+## GLAZE (OPTIONAL)
+1. Mix vinegar with BBQ sauce.
+2. Smoke until sticky.

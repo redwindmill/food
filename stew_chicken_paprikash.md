@@ -3,7 +3,7 @@ CHICKEN PAPRIKASH
 
 MEAT:
 - 4-5 lbs chicken (thighs)
-- 1tbsp salt (to taste)
+- 1 tbsp salt (to taste)
 
 VEGGIES:
 - 3 tbsp olive oil
@@ -16,7 +16,7 @@ STEW:
 - 2 cups chicken stock
 
 FINISH:
-- 1.5 cups sour cream
+- 1 1/2 cups sour cream
 - 2 to 3 tsp flour
 
 PREP (MEAT)

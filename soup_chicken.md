@@ -5,14 +5,14 @@
 - 1 whole chicken
 - 12 cups water
 - 4 cups chopped yellow onions
-- 2.5 cups chopped carrots
+- 2 1/2 cups chopped carrots
 - 2 cups chopped celery
 - 1 large potato
 - 1 cup chopped bell pepper
 - 3 tbsp olive oil
 - 2 tsp parsley
 - 2 tsp garlic powder
-- 1.5 tsp lawrys salt
+- 1 1/2 tsp lawrys salt
 - 1 tsp thyme
 - 3 large bay leafs
 

@@ -1,17 +1,16 @@
 PITA BREAD
-================================================================================
 Sponge:
 - 1 cup warm water
 - 2 tsp active dry yeast
-- 0.5 tsp sugar
-- 0.5 cups flour
+- 1/2 tsp sugar
+- 1/2 cups flour
 
 Dough:
 - Sponge mixture
 - 1 tsp salt
-- 2 tbsp olive oil (optionally an additional 0.5 tbsp)
+- 2 tbsp olive oil (optionally an additional 1/2 tbsp)
 - 1.75 cups flour
-- 1.5 tsp dry milk (optional)
+- 1 1/2 tsp dry milk (optional)
 
 **PREP SPONGE**
 - Pour water, yeast and sugar into a large mixing bowl. Stir until dissolved.
@@ -25,7 +24,7 @@ Dough:
 - On work surface, knead for 2 min. Dough should be soft and moist
 
 **RISE DOUGH**
-- Put dough in clean mixing bowel. Cover with plastic wrap and towel. In a dry climate put a very light coat of water on the top
+- Put dough in clean mixing bowl. Cover with plastic wrap and towel. In a dry climate put a very light coat of water on the top
 - Put in warm place, leave until dough has doubled in size (about 1 hour)
 
 **PREP**

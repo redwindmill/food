@@ -4,7 +4,7 @@ MAUI SHORT RIBS
 Marinate:
 - 2 cups soy sauce
 - 1.25 cups water
-- 0.75 cups rice vinegar
+- 3/4 cup rice vinegar
 - 1 tbsp sesame oil
 - 4.5 tsp fish sauce
 - 3.5 cups packed dark brown sugar

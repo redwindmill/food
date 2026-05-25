@@ -1,12 +1,12 @@
-WIP:: BISCUITS AND GRAVY
+# BISCUITS AND GRAVY
 --------------------------------------------------------------------------------
 **BISCUITS**
-- 2.5 cups all-purpose flour (spoon flour in cup then level off)
+- 2 1/2 cups all-purpose flour (spoon flour in cup then level off)
 - 2 tbsp sugar (6 tbsp sugar for sweet biscuits)
 - 1 tsp salt
-- 3 tbps baking powder
+- 3 tbsp baking powder
 - 1 tsp cream of tartar (powder)
-- 1/2 cup cold butter; +2 tbps for moist, pinch of salt if unsalted
+- 1/2 cup cold butter; +2 tbsp for moist, pinch salt if unsalted
 - 1 egg
 - 1 cup milk 1 tbsp lemon juice
 
@@ -19,7 +19,7 @@ WIP:: BISCUITS AND GRAVY
 *PREP*
 - Turn out dough into floured board; Flour Dough should not be tacky
     - 3x Flatten out, then fold using a tri-fold method (to generate layers)
-- Roll out into 0.75in to 1in thick; cut biscuits out. Don't twist the cutter
+- Roll out into 3/4 in to 1in thick; cut biscuits out. Don't twist the cutter
 - Set them close together, but not touching
 - Brush tops with melted butter
 
@@ -29,7 +29,7 @@ WIP:: BISCUITS AND GRAVY
 
 **GRAVY**
 - (optional) 1lb breakfast sausage
-- 0.5 cups butter or sausage/bacon grease
+- 1/2 cups butter or sausage/bacon grease
 - 5 tbsp all-purpose flour
 - 2 cups milk, room temp
 - salt and pepper (to taste)

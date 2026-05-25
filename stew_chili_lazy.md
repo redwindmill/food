@@ -1,9 +1,8 @@
 LAZY CHILI
-================================================================================
 
 2 Mcormick 1.25 oz original chili packets
 2 lbs ground beef
-0.25 or 0.5 cups bacon
+0.25 or 1/2 cups bacon
 1 14.5 oz can of diced tomatoes
 2 8oz cans of tomato sauce
 2 cans kidney beans

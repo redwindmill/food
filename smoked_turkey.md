@@ -1,7 +1,6 @@
 SMOKED TURKEY
 
 BRINE
-================================================================================
 - 4 cups water
 - 8 cups apple juice
 - 1 cup salt
@@ -28,7 +27,6 @@ Brine
 - 24 to 36 hours if frozen
 
 PREP
-================================================================================
 
 Pull from brine; pat off extra moisture.
 - put quartered onion and apple into cavity
@@ -37,11 +35,8 @@ RUB
 - coat in olive oil
 
 SMOKE
-================================================================================
-- Smoke at 200F-225F for 2 hours untouched
-- Smoke for 1 hour after
-- Spray with Apple Cider Vinegar every 30 min
-
-- Raise temp to 325; Cook to at least 170F in breast
-- Spray with Apple Cider Vinegar every 45min
-- Let it rest for at least 30min
+- Smoke at 200-225°F for 2 hours untouched
+- Smoke for 1 hour after; spray with apple cider vinegar every 30 min
+- Raise temp to 325°F; cook to at least 170°F in breast
+- Spray with apple cider vinegar every 45 min
+- Let rest at least 30 min

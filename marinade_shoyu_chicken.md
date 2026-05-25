@@ -1,5 +1,4 @@
-WIP:: SHOYU CHICKEN
-================================================================================
+# SHOYU CHICKEN
 
 Meat:
 - Around 5lbs chicken breast
@@ -14,7 +13,7 @@ Hot Marinade:
 - 3 tbsp molasses
 - 5 tbsp grated ginger
 - 3 tbsp pressed garlic
-- 1.5 yellow onions, quartered
+- 1 1/2 yellow onions, quartered
 
 Sauce:
 - 3/4 cup hot marinade
@@ -31,7 +30,7 @@ STEW:
 - place chicken in pot, cover well
 - put onions in and bring to a boil
 - Cover pot with a lid and let simmer for 30 min
-- Preheat oven to 425 F
+- Preheat oven to 425 °F
 - Every 30 min turn chicken over check tenderness with a fork (easy to insert)
 - Remove chicken and place into a pan
 

@@ -1,5 +1,4 @@
 INSTA POT WHITE RICE
-================================================================================
 
 - 2 cups white / jasmine rice
 - Water to just above flat level of rice (after rinse)

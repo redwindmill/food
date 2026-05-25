@@ -1,5 +1,4 @@
 # SPAGHETTI AND MEATBALLS
-================================================================================
 
 ## MEATBALLS
 --------------------------------------------------------------------------------
@@ -19,7 +18,7 @@
 - Onion
 - Garlic
 
-**Mix in bowel**
+**Mix in bowl**
 - Meat, eggs
 - Sweated veggies
 - Bread crumbs
@@ -59,4 +58,4 @@
 
 **Cook pasta in salt water**
 - 16 cups of water
-- 1 tablespoon of table salt (1.5 kosher)
+- 1 tablespoon of table salt (1 1/2 kosher)

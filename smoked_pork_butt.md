@@ -1,43 +1,41 @@
-## WIP: Pulled Pork
---------------------------------------------------------------------------------
-GOLDEN RULE: 1/3 salts, 1/3 sugars and 1/3 fragrant spices
+# PULLED PORK
 
-**Meat**
-- 8lbs pork butt
+GOLDEN RULE: 1/3 salts, 1/3 sugars, 1/3 fragrant spices.
 
-**Rub**
-- 6tbsp brown sugar
-- 3tbsp salt
-- 3tbsp lawery's salt
-- 2tbsp black pepper
-- 5tsp garlic powder
-- 5tsp paprika
-- 2tsp onion powder
-- 2tsp cayenne pepper
+## MEAT
+- 8 lb pork butt
 
-**Other**
-- Apple Cider Vinegar
-- Honey
-- Butter
-- Mustard
+## RUB
+- 6 tbsp brown sugar
+- 3 tbsp salt
+- 3 tbsp Lawry's salt
+- 2 tbsp black pepper
+- 5 tsp garlic powder
+- 5 tsp paprika
+- 2 tsp onion powder
+- 2 tsp cayenne pepper
 
---------------------------------------------------------------------------------
+## OTHER
+- apple cider vinegar
+- honey
+- butter
+- mustard
 
-**Prep**
-- Score the fat on the top of the pork butt (cross hatch)
-- Coat butt in yellow mustard and pickle juice (50/50 mixture)
-- Apply rub in a healthy amount
-- Let sit for a hour or two. I typically apply the night before
+## PREP
+1. Score fat on top (crosshatch).
+2. Coat in yellow mustard and pickle juice (50/50).
+3. Apply rub generously.
+4. Let sit 1-2 hours (or overnight).
 
-**Smoking**
-- Put out on smoker at smoking temp (180-200F)  for 3 hours untouched
-- Raise temp to 275-300F (fast) 225-250 (slow) util internal temp is 165-170F
-- Apply apple cider vinegar every 30min until smoke phase complete
+## SMOKING
+1. Smoke at 180-200°F for 3 hours untouched.
+2. Raise to 275-300°F (fast) or 225-250°F (slow) until internal 165-170°F.
+3. Apply apple cider vinegar every 30 min until smoke phase complete.
 
-**Cooking**
-- Before wrapping pour some honey and butter on the top of the butt
-- After an internal temp around 170f, wrap in butcher paper (fold in a way that fat does not leak out of edges)
-- Put back into smoker (300-325F), wait for internal temp around 195-200f. Should feel smooth with poking with probe
+## COOKING
+1. Before wrapping, pour honey and butter on top.
+2. At ~170°F internal, wrap in butcher paper (fat sealed).
+3. Return to smoker at 300-325°F until internal 195-200°F (probe smooth).
 
-**Resting**
-- Rest for 1 hour in a cooler
+## RESTING
+1. Rest 1 hour in cooler.

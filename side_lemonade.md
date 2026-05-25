@@ -2,7 +2,7 @@ LEMONADE
 --------------------------------------
 8 cups water
 1.75 cups sugar
-1.5 cups lemon juice
+1 1/2 cups lemon juice
 
 OR
 

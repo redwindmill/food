@@ -1,5 +1,4 @@
-WIP:: FRIED CARAMEL CHICKEN
-================================================================================
+# FRIED CARAMEL CHICKEN
 MARINADE
 - 2 chicken breasts cut into 2in chunks
 - 1/2 tsp lawrys salt

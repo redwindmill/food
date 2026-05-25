@@ -1,5 +1,4 @@
-WIP:: FRENCH ROLLS
-================================================================================
+# FRENCH ROLLS
 Addons:
 - Around 4 tbsp salted butter
 
@@ -11,9 +10,9 @@ Wet Mix:
 - 2 tsp dry yeast
 
 Dry Mix:
-- 2.5 cups bread flour
+- 2 1/2 cups bread flour
 - 1 tbsp sugar
-- 0.75 tsp salt
+- 3/4 tsp salt
 - 2 tbsp butter (cubed)
 
 Prep:
@@ -39,6 +38,6 @@ Finishing Touch:
 - Push 1/8 tbsp chilled butter in each cut
 
 Bake:
-- Preheat oven to 425F
+- Preheat oven to 425°F
 - Cook for 12min
 - Place on cutting board to cool completely (covered)
