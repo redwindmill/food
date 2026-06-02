@@ -9,11 +9,11 @@ WIP:: CLASSIC CHEESESTEAK
 
 **Meat**
 - 1lb shredded beef
-- 1-2 tbsp  worcestershire sauce
-- 1-2 tsp salt
-- 1-3 tsp garlic powder
-- 1-3 tsp black pepper
-- 1-3 tsp olive oil (as needed)
+- 2 tbsp worcestershire sauce
+- 1/2 tsp salt
+- 1 tsp garlic powder
+- 1 tsp black pepper
+- 3 tsp olive oil (as needed)
 
 **Cheese**
 - 2 cups mozzarella
