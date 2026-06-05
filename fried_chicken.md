@@ -10,7 +10,7 @@
 - 1 large egg
 - 3 lbs chicken
 
-Whisk together ingredients and pour into zip lock bag. Add chicken. Refrigerate for at least 4 hours up to overnight.
+Whisk together the brine ingredients in a large bowl until well combined, then pour into a zip-top bag, add the chicken pieces, seal the bag, and refrigerate for at least 4 hours or up to overnight.
 
 ## Bread
 - 1 cup flour
@@ -26,10 +26,10 @@ Whisk together ingredients and pour into zip lock bag. Add chicken. Refrigerate 
 ## Prep
 - Bread mix
 
-Mix breading together in one bowl. Mix two to three eggs in another bowl. Bread, egg wash, bread.
+Mix the breading ingredients together in one shallow bowl until uniform. Whisk two to three eggs in a separate bowl until smooth. Dredge each brined chicken piece in the breading, then dip in the egg wash, then dredge again in the breading, pressing to adhere.
 
 ## Cooking
 - 2 inches of oil (refined coconut)
 - Heat oil to 350-375°F
 
-Fry 8-10 minutes or until golden and done. Turn to cook evenly.
+Fry the breaded chicken pieces in 2 inches of refined coconut oil heated to 350-375°F for 8-10 minutes, turning as needed to cook evenly, until golden brown and the internal temperature reaches 165°F.

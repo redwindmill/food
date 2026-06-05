@@ -21,6 +21,6 @@
 - 3/4 cup water (maybe a splash more)
 
 ## Steps
-1. Fry the rice in a pan on medium heat until lightly roasted.
-2. Fry the veggies in a pan until soft.
-3. Bake covered at 350°F for 35-45 minutes.
+1. Fry the rice in a large skillet over medium heat until lightly golden and fragrant.
+2. Fry the vegetables in a separate skillet over medium heat until softened and translucent.
+3. Combine all ingredients in a covered baking dish and bake at 350°F for 35-45 minutes until the rice is tender and the liquid is absorbed.

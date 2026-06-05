@@ -11,21 +11,21 @@
 - 1 cup milk 1 tbsp lemon juice
 
 *BAKE*
-- Combine salt, sugar, baking powder, tartar, flour
-- Combine milk and egg; lightly beat egg in milk
-- Slice butter into dry mix; use pastry cutter until butter is broken down into chunks. DON'T WORK IT TO A CRACKER CONSISTENCY
-- Combine wet mix and dry mix; stir until just combined. Should be like thick potatoes, not too sticky
+- Combine the salt, sugar, baking powder, cream of tartar, and flour in a large mixing bowl.
+- Combine the milk and egg in a separate bowl and lightly beat the egg into the milk.
+- Slice the cold butter into the dry mix and use a pastry cutter to cut it in until the butter is broken down into pea-sized chunks; do not work it to a cracker consistency.
+- Combine the wet mix and dry mix and stir until just combined; the dough should resemble thick mashed potatoes and should not be too sticky.
 
 *PREP*
-- Turn out dough into floured board; Flour Dough should not be tacky
-    - 3x Flatten out, then fold using a tri-fold method (to generate layers)
-- Roll out into 3/4 in to 1in thick; cut biscuits out. Don't twist the cutter
-- Set them close together, but not touching
-- Brush tops with melted butter
+- Turn the dough out onto a floured board; the dough should not be tacky.
+- Flatten the dough and fold it using a tri-fold method three times to generate layers.
+- Roll the dough out to 3/4 inch to 1 inch thick and cut biscuits using a cutter without twisting.
+- Arrange the biscuits close together but not touching on the prepared pan.
+- Brush the tops with melted butter.
 
 *COOK*
-- Set oven to 400F; butter or oil pan / skillet
-- Cook for 13min (light golden brown on top and bottom)
+- Preheat the oven to 400°F and butter or oil a baking pan or skillet.
+- Bake the biscuits for 13 minutes until light golden brown on the top and bottom.
 
 **GRAVY**
 - (optional) 1lb breakfast sausage
@@ -35,11 +35,10 @@
 - salt and pepper (to taste)
 
 *COOK*
-- (optional) cook sausage in pan/skillet. Pull out meat and set aside; keep grease
-- (optional) remove any left over meat from pan
-- Heat fat over medium heat in pan/skillet
-- Sift flour in slowly and let it come to a boil for 2 minutes (mash down with flat spatula the whole time)
-- Slowly stir in milk and bring back to a light boil. Stir the whole time until mixture is smooth and consistency is met
-  - Add more milk to thin
-- (optional) put back in sausage
-- Salt and pepper to taste
+- (optional) Cook the sausage in a pan or skillet, then pull out the meat and set it aside while keeping the grease in the pan.
+- (optional) Remove any leftover meat bits from the pan.
+- Heat the fat over medium heat in the pan or skillet.
+- Sift the flour in slowly and let it come to a boil for 2 minutes, mashing it down continuously with a flat spatula.
+- Slowly stir in the milk and bring the mixture back to a light boil, stirring constantly until smooth and the desired consistency is reached; add more milk if needed to thin.
+- (optional) Stir the cooked sausage back into the gravy.
+- Season with salt and pepper to taste.
