@@ -14,10 +14,9 @@
 - 1 tsp salt
 - 1/4 tsp garlic powder
 - 1/2 tsp black pepper
-- 1/2 tsp sweet paprika
+- 3/4 to 1 tsp sweet paprika
 - 1/2 tsp dried oregano
-- 1 cup canned diced tomatoes (with juice)
-- 1 cup canned crushed tomatoes
+- 1 can diced tomatoes (with juice) 14.5oz
 - 3/4 cup water (maybe a splash more)
 
 ## Steps
