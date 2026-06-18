@@ -32,3 +32,18 @@ Roll out
 
 Cook
 - Add desired toppings and cook at 450-500C (842-932F)
+
+# PIZZA SAUCE
+- 1 can (14.5 oz) diced tomatoes, blended smooth
+- 2 tbsp olive oil
+- 1 tsp onion powder (1/3 cup fresh diced)
+- 1/4 to 1/2 cup grated carrot
+- 2 tsp garlic powder
+- 1 tsp dried basil
+- 1/2 tsp dried oregano
+- 1/4 to 1/2 tsp salt
+- 1/2 tsp black pepper
+
+## Cook
+- Simmer for 15 to 20 min
+- Blend until smooth
