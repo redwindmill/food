@@ -21,12 +21,13 @@
 **CRUST**
 
 **INGREDIENTS**
-- 1 1/2 cups bread flour
-- 1/4 cup sugar
-- 1/4 tsp salt
-- 1/2 cup butter
-- 1 large egg
-- 1 tsp vanilla
+- 3 cups bread flour
+- 1/2 cup sugar
+- 1/2 tsp salt
+- 1 cup butter
+- 2 large egg
+- 2 tbsp whole milk
+- 2 tsp vanilla
 
 **PREP**
 - using a mixer or blender: blend flour, sugar and salt

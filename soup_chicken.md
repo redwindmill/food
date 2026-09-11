@@ -2,8 +2,8 @@
 --------------------------------------------------------------------------------
 
 **BROTH**
-- 1 whole chicken
-- 12 cups water
+- 1 whole chicken (or 3-4 lbs thighs)
+- 10 cups water
 - 4 cups chopped yellow onions
 - 2 1/2 cups chopped carrots
 - 2 cups chopped celery
@@ -14,9 +14,13 @@
 - 2 tsp garlic powder
 - 1 1/2 tsp lawrys salt
 - 1 tsp thyme
+- 1/2 tsp oregano
 - 3 large bay leafs
+- optional 4 tsp of chicken bullion
 
 Put all in pot; cook for 2.25 hours
+- Cook for 1.5 hours covered
+- Cook for 0.75 hours uncovered; mind the soup level
 
 **PREP**
 - take chicken out of pot, strip from bone
@@ -24,7 +28,6 @@ Put all in pot; cook for 2.25 hours
 - steam 2 cups of chopped zucchini (or put in pot for 20 min)
 
 **COOK**
-- put 8-12 cups worth of Knorr bouillon for 12 cups of broth. Bouillon to taste!
 - put amount of of onions / celery / carrots you want back into the broth
 - pour 1 can (15oz) of dice italian style tomatoes
 - pour 1 can (15oz) of kidney beans, no bean juice
