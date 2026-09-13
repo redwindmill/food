@@ -12,7 +12,7 @@
 - 3 tbsp olive oil
 - 2 tsp parsley
 - 2 tsp garlic powder
-- 1 1/2 tsp lawrys salt
+- 2 1/2 - 3 tsp lawrys salt
 - 1 tsp thyme
 - 1/2 tsp oregano
 - 3 large bay leafs
